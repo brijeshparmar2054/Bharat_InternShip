@@ -14,7 +14,7 @@ Here, you'll find the code and resources for the tasks completed during this imm
 
 Creating a simple and efficient registration page involves setting up a front-end interface using HTML and CSS, and a back-end server using Node.js with MongoDB for data storage.
 
-
+![Task-1-1](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/440e66ab-5b9d-4ec4-bc28-5892d229eeaa)
 
 ### ✅ Task 2: Blog Website
 
