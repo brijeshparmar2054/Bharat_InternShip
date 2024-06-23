@@ -6,7 +6,7 @@ Welcome to the repository of the Bharat Intern Full Stack Web Development Virtua
 
 Here, you'll find the code and resources for the tasks completed during this immersive learning experience.
 
-## 📌Task Completed
+## 📌Tasks Completed
 
 ### ✅ Task-1: Registration Form
 
