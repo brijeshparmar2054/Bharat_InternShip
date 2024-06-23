@@ -14,6 +14,8 @@ Here, you'll find the code and resources for the tasks completed during this imm
 
 Creating a simple and efficient registration page involves setting up a front-end interface using HTML and CSS, and a back-end server using Node.js with MongoDB for data storage.
 
+
+
 ### ✅ Task 2: Blog Website
 
 **📝Description:** 
