@@ -1,0 +1,51 @@
+body{
+    /* form in the center of page */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background color */
+    background-color: #f2f2f2;
+    /* font family */
+    font-family: Arial, Helvetica, sans-serif;
+    /* font size */
+    font-size: 20px;
+    /* height of the page */
+    height: 100vh;
+    /* margin */
+    margin: -20px 0 50px;
+}
+.main{
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px #8888;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #e7cd23;
+
+}
+
+input[type=submit]{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color: #e7cd23;
+    border:none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
