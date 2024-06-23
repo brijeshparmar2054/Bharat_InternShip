@@ -16,6 +16,8 @@ Creating a simple and efficient registration page involves setting up a front-en
 
 ![Task-1-1](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/440e66ab-5b9d-4ec4-bc28-5892d229eeaa)
 
+![Task-1-2](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/058818f0-4834-4b1c-aa0e-5b5f2c27d61f)
+
 ### ✅ Task 2: Blog Website
 
 **📝Description:** 
