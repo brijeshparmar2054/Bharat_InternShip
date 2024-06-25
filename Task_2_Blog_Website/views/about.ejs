@@ -1,4 +1,19 @@
-<%- include("partials/header"); -%>
-    <h1>About</h1>
-    <p> <%= aboutContent %> </p>
-<%- include("partials/footer"); -%>
+<% layout('layout/main') -%>
+<% block('title', 'About') -%>
+
+
+<div class="container">
+  <h1 class="blog-heading top-m">About</h1>
+
+  <p class="w-75 mx-auto text-center">Hey there! Brijesh this side, as you may have guessed this is just a prototype of a Blogging website. It was created with a vision of understanding the main concept behind the logic of a blog storing website.
+    I have discussed it in my events also.  </p>
+
+    <h3 class="mt-4 mb-4">This will be your about section of Blog website </h3>
+    <p>Edit the code to replace the text here and you are just ready to showcase this project to your teacher :)</p>
+
+    <h3 class="mt-4 mb-4">More about me?</h3>
+
+  <a href="https://www.linkedin.com/in/brijesh-parmar-258541248/">Visit my LinkedIn Acoount</a> <br>
+
+  <a href="https://www.instagram.com/_.brijesh._.2054._/">Visit My Instagram Account</a>
+</div>

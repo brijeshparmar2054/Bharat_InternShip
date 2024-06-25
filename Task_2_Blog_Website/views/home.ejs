@@ -1,20 +1,26 @@
-<%- include("partials/header"); -%>
-    <h1>Home</h1>
-    <p> <%= startingContent %> </p>
+<% layout('layout/main') -%>
+<% block('title', 'Home') -%>
 
+<div class="container mt-4 text-center home__container">
+  <h1 class="blog-heading">Welcome to our blog</h1>
+  <h4 class="blog-sub-heading text-muted">here we will have some of the best showing blog</h4>
+  <a class="btn btn-primary btn-lg mt-4 mx-auto home__write-btn" href="/compose">Write a blog</a>
+</div>
 
-  <%  posts.forEach(function(post){ %>
+<div class="container home__container-post">
+  <h1 class="text-center">Most Recent Blogs</h1>
+  <div class="row mr-5">
+    <%  posts.forEach(function(post){ %>
+      <!-- <h1><%=post.title%></h1>
+      <p><%=post.content%></p> -->
 
-    <h1><%=post.title%></h1>
-    <p>
-    <%=post.content.substring(0, 100) + " ..."%>
-    <a href="/posts/<%=post._id%>">Read More</a>
-    </p>
-
-
-    <% }) %>
-    <div class="btn">
-      <a href="/compose"><button class="add">+</button></a>
+      <div class="card col-3 offset-1 mt-5 ">
+        <div class="card-body home__card">
+          <h5 class="card-title"><%=post.title%></h5>
+          <p class="card-text"><%=post.content%></p>
+          <a href="/posts/<%=post._id%>" class="btn btn-primary home__post-btn">Read more</a>
+        </div>
       </div>
-
-<%- include("partials/footer"); -%>
+      <% }) %>
+  </div>
+</div>
