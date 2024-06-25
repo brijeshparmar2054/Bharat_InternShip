@@ -32,23 +32,21 @@ A dynamic blog website for reading and writing posts allows users to create, edi
 
 **1. BLOGGI'G GURU Home Page:**
 
-![Task-2-1](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/078ad0f6-39eb-4b07-9589-547d9e0395b0)
+![1](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/e28ee8be-31b8-4332-a42a-335503d232bb)
 
-**2. BLOGGI'G GURU Compose Blog:**
+![2](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/b197d438-817e-482a-8024-e2b6028fd9d9)
 
-![Task-2-2](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/528a39f4-65fc-4feb-b34c-be881bc39f45)
+**2. BLOGGI'G GURU Viewing Compose Blog:**
 
-**3. BLOGGI'G GURU Viewing Composed Blog:**
+![3](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/5e95a36e-614d-44b8-a522-18d4f8df5e6d)
 
-![Task-2-3](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/233af45f-840f-4427-a3e4-77fba6d7a2a7)
+**3. BLOGGI'G GURU About Page:**
 
-**4. BLOGGI'G GURU About Us Page:**
+![4](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/00d6f90e-0dcf-4aa9-8b74-6aad98580be9)
 
-![Task-2-4](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/367c61fb-cc59-4ac0-a640-05f62a182d4d)
+**4. BLOGGI'G GURU Contact Page:**
 
-**5. BLOGGI'G GURU Contact Us Page:**
-
-![Task-2-5](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/089e68ae-3990-4d9c-9962-cc010bd939c4)
+![5](https://github.com/brijeshparmar2054/Bharat_InternShip/assets/129920028/3695639b-f9a8-422b-8cde-6a9579121ce1)
 
 #### 📌 Thanks for reaching me!
 #### 📌 Happy to Code🚀💫
